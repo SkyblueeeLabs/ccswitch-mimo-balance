@@ -1,0 +1,13 @@
+# Sensitive files
+state.json
+config.json
+cc-switch.backup-*.db
+*.log
+
+# Dependencies
+node_modules/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
